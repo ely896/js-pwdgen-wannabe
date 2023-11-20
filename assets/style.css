@@ -1,0 +1,12 @@
+p {
+    margin: 10rem 10 rem;
+    background-color: gray;
+    border: 2px solid palevioletred;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+    vertical-align: middle;
+    color: azure;
+}
